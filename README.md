@@ -154,13 +154,13 @@ AI-powered resume and cover letter tailoring app that customizes resumes accordi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arzoofatima25&show_icons=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&border_color=30363D" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arzoofatima25&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoofatima25&layout=compact&theme=github_dark&title_color=38BDF8&border_color=30363D" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoofatima25&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arzoofatima25&theme=github-dark&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arzoofatima25&theme=react-dark&hide_border=true&color=38BDF8&line=38BDF8&point=FFFFFF" />
 
 </div>
 
