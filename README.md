@@ -303,53 +303,18 @@ React client with Firebase Authentication → Express.js backend → Google Gemi
 
 <br/>
 
-## GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arzoofatima25&show_icons=true&theme=dark&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=38BDF8&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoofatima25&layout=compact&theme=dark&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&border_color=38BDF8&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arzoofatima25&show_icons=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&border_color=30363D" />
 
-<img width="100%" src="https://streak-stats.demolab.com?user=arzoofatima25&theme=dark&background=161B22&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=E2E8F0&border=38BDF8&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoofatima25&layout=compact&theme=github_dark&title_color=38BDF8&border_color=30363D" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arzoofatima25&theme=react-dark&bg_color=161B22&color=38BDF8&line=38BDF8&point=E2E8F0&area=true&hide_border=true"/>
+<br/><br/>
 
-<br/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arzoofatima25&theme=github-dark&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arzoofatima25&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/arzoofatima25)
-
-</div>
-
-<!--
-  Contribution Snake — requires a GitHub Action to generate snake.svg on your profile repo.
-  Workflow file: .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */6 * * *"
-    workflow_dispatch:
-    push:
-      branches: [ main ]
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: arzoofatima25
-            outputs: |
-              dist/snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
--->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/arzoofatima25/arzoofatima25/output/snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 <br/>
