@@ -23,8 +23,8 @@ I am a **Full Stack Developer** focused on building AI-powered web applications 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs
 - **Database:** PostgreSQL, Firebase
-- **AI & Automation:** OpenAI API, Google Gemini API, n8n Automation
-- **Tools:** Git, GitHub, VS Code, Postman, Vercel
+- **AI & Automation:** OpenAI API, Google Gemini API
+- **Tools:** GitHub, VS Code, Vercel
 
 ### What I Build
 
@@ -38,7 +38,7 @@ I am a **Full Stack Developer** focused on building AI-powered web applications 
 - Frontend Developer roles
 - Full Stack Developer roles
 - Internships
-- Open Source Collaboration
+
 
 <br/>
 
@@ -51,7 +51,6 @@ I am a **Full Stack Developer** focused on building AI-powered web applications 
 ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 ![AI Integration](https://img.shields.io/badge/AI%20Integration-161B22?style=for-the-badge&logo=openai&logoColor=38BDF8)
-![n8n](https://img.shields.io/badge/n8n%20Automation-161B22?style=for-the-badge&logo=n8n&logoColor=38BDF8)
 
 </div>
 
@@ -138,7 +137,6 @@ AI-powered resume and cover letter tailoring app that customizes resumes accordi
 
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-161B22?style=for-the-badge&logo=openai&logoColor=38BDF8)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-161B22?style=for-the-badge&logo=googlegemini&logoColor=38BDF8)
-![n8n](https://img.shields.io/badge/n8n%20Automation-161B22?style=for-the-badge&logo=n8n&logoColor=38BDF8)
 
 <br/>
 
