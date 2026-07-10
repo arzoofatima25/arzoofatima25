@@ -16,34 +16,29 @@
 
 ## 👩‍💻 Who I Am
 
-```ts
-const arzooFatima = {
-  role: "Full Stack Developer",
-  focus: "Building AI-powered web applications with clean UI/UX",
+I am a **Full Stack Developer** focused on building AI-powered web applications with clean UI/UX, scalable frontend architecture, and practical backend integration.
 
-  coreStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    database: ["PostgreSQL", "Firebase"],
-    ai: ["OpenAI API", "Google Gemini API", "n8n Automation"],
-  },
+### What I Work With
 
-  projects: ["PaperBot", "OrderlyAI", "Tailorly"],
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** PostgreSQL, Firebase
+- **AI & Automation:** OpenAI API, Google Gemini API, n8n Automation
+- **Tools:** Git, GitHub, VS Code, Postman, Vercel
 
-  currentlyBuilding: [
-    "Production-ready full-stack applications",
-    "Modern frontend interfaces",
-    "AI-integrated web products",
-  ],
+### What I Build
 
-  openTo: [
-    "Frontend Developer roles",
-    "Full Stack Developer roles",
-    "Internships",
-    "Open Source Collaboration",
-  ],
-};
-```
+- Production-ready full-stack web applications
+- Modern frontend interfaces
+- AI-integrated web products
+- Dashboard-based systems with real-world workflows
+
+### Open To
+
+- Frontend Developer roles
+- Full Stack Developer roles
+- Internships
+- Open Source Collaboration
 
 <br/>
 
