@@ -12,7 +12,7 @@
 
 <br/>
 
-## About Me
+
 
 ## 👩‍💻 Who I Am
 
