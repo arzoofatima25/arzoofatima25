@@ -1,16 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Arzoo%20Fatima&fontSize=46&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React,%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=18&descColor=E2E8F0&animation=twinkling"/>
-
-<a href="https://github.com/arzoofatima25">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+AI-Powered+Web+Applications;React+%2B+TypeScript+%2B+Node.js;Frontend+Engineering+%26+UI%2FUX+Design;Shipping+production-ready+full-stack+apps" alt="Typing SVG" />
-</a>
+<img src="banner.png" width="100%" alt="Arzoo Fatima GitHub Banner" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arzoofatima25&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/arzoofatima25?label=Followers&color=38BDF8&style=flat-square&labelColor=161B22" alt="Followers"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-38BDF8?style=flat-square&labelColor=161B22" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=arzoofatima25&label=Profile%20Views&color=38BDF8&style=flat-square" />
+<img src="https://img.shields.io/github/followers/arzoofatima25?label=Followers&color=38BDF8&style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%2F%20Frontend-38BDF8?style=flat-square&labelColor=161B22" />
 
 </div>
 
