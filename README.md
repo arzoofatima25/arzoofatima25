@@ -319,16 +319,26 @@ React client with Firebase Authentication → Express.js backend → Google Gemi
 
 <br/>
 
-## Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/arzoofatima25"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
-<a href="https://linkedin.com/in/arzoo-fatima-8a99423a8"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="mailto:arzoofatima613@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://github.com/arzoofatima25">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://linkedin.com/in/arzoo-fatima-8a99423a8">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+<a href="mailto:arzoofatima613@gmail.com">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+</a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer"/>
+<div align="center">
+
+### Thanks for visiting my profile.
+
+</div>
