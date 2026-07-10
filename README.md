@@ -265,46 +265,41 @@ React client with Firebase Authentication → Express.js backend → Google Gemi
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Languages**
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=dark" />
+
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+### Backend
 
-**Backend**
-<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-</td>
-<td valign="top" width="50%">
-
-**Database**
 <br/>
+
+### Database
+
 <img src="https://skillicons.dev/icons?i=postgres,firebase&theme=dark" />
 
-**Artificial Intelligence**
 <br/>
-<img src="https://img.shields.io/badge/Gemini%20API-161B22?style=flat-square&logo=googlegemini&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/OpenAI%20API-161B22?style=flat-square&logo=openai&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-161B22?style=flat-square&logoColor=38BDF8"/>
 
-**Cloud & Deployment**
+### AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-161B22?style=for-the-badge&logo=openai&logoColor=38BDF8)
+![Gemini](https://img.shields.io/badge/Gemini%20API-161B22?style=for-the-badge&logo=googlegemini&logoColor=38BDF8)
+![n8n](https://img.shields.io/badge/n8n%20Automation-161B22?style=for-the-badge&logo=n8n&logoColor=38BDF8)
+
 <br/>
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 
-**Developer Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+### Tools & Deployment
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+
+</div>
 
 <br/>
 
