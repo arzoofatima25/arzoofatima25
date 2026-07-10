@@ -115,10 +115,60 @@ AI-powered resume and cover letter tailoring app that customizes resumes accordi
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://tailorly-rho.vercel.app)
 
 <br/>
+## 🚀 Featured Projects
 
+### PaperBot — AI Examination Management System
 
-## Featured Projects
+AI-powered examination platform for generating question papers, conducting online exams, and evaluating answers using AI.
 
+**Role:** Frontend Developer & UI/UX Designer
+
+**Key Work**
+- Designed teacher and student interfaces
+- Built the frontend using React and TypeScript
+- Connected the UI with AI-powered backend workflows
+
+**Tech Stack:** React · TypeScript · Node.js · Express.js · PostgreSQL · OpenAI API
+
+[![Repository](https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/arzoofatima25/PapersBot)
+
+---
+
+### OrderlyAI — Restaurant Management System
+
+Production-style restaurant management system with admin dashboard, cashier system, kitchen display, order management, and role-based access.
+
+**Role:** Full Stack Developer
+
+**Key Work**
+- Built the frontend with Next.js, TypeScript, and Tailwind CSS
+- Developed backend APIs and dashboard logic
+- Deployed the project on Vercel
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · PostgreSQL · Vercel
+
+[![Repository](https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/arzoofatima25/orderlyai)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://orderlyai-sigma.vercel.app)
+
+---
+
+### Tailorly — AI Resume & Cover Letter Tool
+
+AI-powered resume and cover letter tailoring app that customizes resumes according to job descriptions using Google Gemini API.
+
+**Role:** Full Stack Developer
+
+**Key Work**
+- Built frontend and backend architecture
+- Integrated Firebase Authentication
+- Added Gemini API for resume and cover letter generation
+
+**Tech Stack:** React · Express.js · Firebase · Google Gemini API
+
+[![Repository](https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/arzoofatima25/Tailorly)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://tailorly-rho.vercel.app)
+
+<br/>
 ### 01 · PaperBot
 
 <table>
