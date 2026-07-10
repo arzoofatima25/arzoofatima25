@@ -147,16 +147,9 @@ AI-powered resume and cover letter tailoring app that customizes resumes accordi
 </div>
 
 <br/>
-
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arzoofatima25&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoofatima25&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" />
-
-<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arzoofatima25&theme=react-dark&hide_border=true&color=38BDF8&line=38BDF8&point=FFFFFF" />
 
