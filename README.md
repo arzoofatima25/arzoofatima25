@@ -14,23 +14,35 @@
 
 ## About Me
 
+## 👩‍💻 Who I Am
+
 ```ts
-const arzoo = {
-  title: "Full Stack Developer",
-  focus: "AI-powered web applications with clean, scalable frontend architecture",
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "Express.js", "PostgreSQL"],
-  aiTools: ["OpenAI GPT-4o", "Google Gemini API", "n8n workflow automation"],
-  launchedProjects: ["PaperBot", "OrderlyAI", "Tailorly"],
-  status: "Software Engineering Graduate (BSSE)",
+const arzooFatima = {
+  role: "Full Stack Developer",
+  focus: "Building AI-powered web applications with clean UI/UX",
+
+  coreStack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["PostgreSQL", "Firebase"],
+    ai: ["OpenAI API", "Google Gemini API", "n8n Automation"],
+  },
+
+  projects: ["PaperBot", "OrderlyAI", "Tailorly"],
+
+  currentlyBuilding: [
+    "Production-ready full-stack applications",
+    "Modern frontend interfaces",
+    "AI-integrated web products",
+  ],
+
   openTo: [
-    "Full Stack Developer roles",
     "Frontend Developer roles",
-    "Graduate Software Engineer positions",
+    "Full Stack Developer roles",
     "Internships",
     "Open Source Collaboration",
   ],
-} as const;
-```
+};
 
 <br/>
 
