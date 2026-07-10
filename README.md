@@ -142,7 +142,7 @@ AI-powered resume and cover letter tailoring app that customizes resumes accordi
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel" />
 
 </div>
 
